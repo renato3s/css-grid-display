@@ -1,4 +1,4 @@
-grid display fundamentals 
+###grid display fundamentals 
 
 ## Setup
 To start this project, run yarn
